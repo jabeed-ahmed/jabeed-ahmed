@@ -7,4 +7,3 @@
 - 💬 Ask me about Flutter, Kotlin, Java or any API related stuff
 - 📫 How to reach me: jabeedahmed0@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Love learning new tech stuff along with some space related articles
